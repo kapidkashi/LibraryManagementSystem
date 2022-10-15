@@ -1,0 +1,149 @@
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe.config
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.AssemblyReference.cache
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmLogin.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.Properties.Resources.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.GenerateResource.cache
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CoreCompileInputs.cache
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.exe
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmDashboard.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateAccount.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.xml
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.xml
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.xml
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CopyComplete
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmAccount.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBooks.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBookSection.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmPenalty.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateStudent.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmStudent.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBorrow.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmTransaction.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmReturn1.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe.config
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.pdb
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.dll
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.dll
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.xml
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.xml
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.AssemblyReference.cache
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmLogin.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmAccount.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBooks.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBookSection.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBorrow.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateAccount.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateStudent.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmDashboard.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmPenalty.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmReturn1.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmStudent.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmTransaction.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.Properties.Resources.resources
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.GenerateResource.cache
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CoreCompileInputs.cache
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.exe
+D:\Downloads\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe.config
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.dll
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.dll
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.dll
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.xml
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.xml
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.xml
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.AssemblyReference.cache
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmLogin.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmAccount.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBooks.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBookSection.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBorrow.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateAccount.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateStudent.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmDashboard.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmPenalty.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmReturn1.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmStudent.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmTransaction.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.Properties.Resources.resources
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.GenerateResource.cache
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CoreCompileInputs.cache
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CopyComplete
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.exe
+D:\KApidKASHI\3rd Year\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe.config
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.xml
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.xml
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.xml
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.AssemblyReference.cache
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmLogin.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmAccount.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBooks.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBookSection.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBorrow.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateAccount.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateStudent.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmDashboard.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmPenalty.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmReturn1.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmStudent.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmTransaction.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.Properties.Resources.resources
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.GenerateResource.cache
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CoreCompileInputs.cache
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CopyComplete
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.exe
+D:\KApidKASHI\3rd Year\Visual Studio-3rd year\1st sem\Pragados_Finals\Pragados_Finals\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe.config
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.exe
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\Pragados_Finals.pdb
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.dll
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.dll
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.dll
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.EF6.dll
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.Linq.dll
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.xml
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\EntityFramework.SqlServer.xml
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\bin\Debug\System.Data.SQLite.xml
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.AssemblyReference.cache
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmLogin.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmAccount.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBooks.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBookSection.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmBorrow.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateAccount.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmCreateStudent.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmDashboard.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmPenalty.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmReturn1.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmStudent.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.frmTransaction.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.Properties.Resources.resources
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.GenerateResource.cache
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CoreCompileInputs.cache
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.csproj.CopyComplete
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.exe
+D:\KApidKASHI\Projects\LibrarySystem\LibrarySystem\Pragados_Finals\Pragados_Finals\obj\Debug\Pragados_Finals.pdb
